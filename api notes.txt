@@ -1,0 +1,16 @@
+google JSON api:   AIzaSyD6bIuTTEm5v6yAgiJ2HWopoC0OS0q22XY
+
+https://developers.google.com/custom-search/json-api/v1/overview
+
+cx: 
+
+
+https://www.googleapis.com/customsearch/v1?parameters
+
+https://www.googleapis.com/customsearch/v1?q=query&key=AIzaSyD6bIuTTEm5v6yAgiJ2HWopoC0OS0q22XY&cx=008323734482261316548:7dymxyxvecs
+
+-----------------------
+
+https://github.com/mindonshuffle/RPS-Multiplayer
+
+https://mindonshuffle.github.io/RPS-Multiplayer/
